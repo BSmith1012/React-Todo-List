@@ -1,0 +1,11 @@
+footer {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+footer p {
+    display: inline-block;
+    margin: 10px 0;
+    font-size: small;
+    opacity: 0.4;
+}
